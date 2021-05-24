@@ -27,3 +27,24 @@ Entre las funcionalidades o conceptos más destacados de github tenemos
 
 ___
 
+### Clonación 🧙‍♂️
+Esta funcionalidad nos permite crear una copia local en nuestra computadora, al hacerlo también va
+guardando todas las versiones que este ha sufrido, podría ser útil.
+
+___
+
+### Commit and Push 📥📤
+
+Commit and push prácticamente es para almacenar los diversos cambios que sufra el proyecto. Commit lo vi como una forma
+local de guardar los cambios hasta que se use push, en donde todos esos cambios locales pasan a guardarse en el proyecto de
+forma remota, y ahí es cuando las demás personas pueden observar dichos cambios.
+
+___
+
+### Repositorios 📂
+otra funcionalidad de los repositorios es que se puede agregar un archivo README en el cual
+podemos decir porqué nuestro proyecto es bueno y que funcionalidades tiene, etc.
+
+___
+
+
