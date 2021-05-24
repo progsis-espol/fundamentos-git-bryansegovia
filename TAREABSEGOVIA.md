@@ -42,9 +42,42 @@ forma remota, y ahí es cuando las demás personas pueden observar dichos cambio
 ___
 
 ### Repositorios 📂
-otra funcionalidad de los repositorios es que se puede agregar un archivo README en el cual
+Otra funcionalidad de los repositorios es que se puede agregar un archivo README en el cual
 podemos decir porqué nuestro proyecto es bueno y que funcionalidades tiene, etc.
 
 ___
+
+### BRANCH ‼️
+Sinceramente no entendí mucho sobre las ramas, dice que crea un nuevo proyecto, o sea como que ahora hay dos, pero que es
+lo que se crea en sí❔ Un nuevo repositorio o que❔ 
+
+___
+
+### Fork
+Fork, esto tampoco entendí muy bien, es como el nombre que se le da a alguien que quiere colaborar en una nueva rama que no es 
+la principal, o eso creo.
+
+___
+
+### Pull Requests ❌
+Definitivamente me perdí desde las ramas(branch), de ahí para acá los conceptos se vuelven turbios.
+
+___
+
+### Issues
+En issues entendí que es como una "contraloría" pero para proyectos, más allá de eso no entendí.
+
+___
+
+### Perfil de Usuario 👨‍🦰
+El perfil de usuario es muy útil, es una forma de destacar los proyectos en los que se ha trabajado, un resumen de las cosas que nos
+interesan, lo que tenemos y lo que quisieramos, es como la primera imagen para un programador.
+
+___
+
+## MARKDOWN
+Finalmente nos topamos con el que hace posible esto, y bueno este es mi concepto.
+***MarkDown es como una plantilla para dar formato, estilo a los diversos tipos de reportes o información respecto al proyecto.***
+> Bryan Segovia Mariscal
 
 
